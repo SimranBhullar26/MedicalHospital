@@ -1,0 +1,28 @@
+
+.home {
+    padding-top: 80px;
+    text-align: center;
+  }
+  
+  .home h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .home p {
+    font-size: 1.25rem;
+    color: #555;
+  }
+  
+  .home .btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border-radius: 8px;
+  }
+  
+  .home .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
